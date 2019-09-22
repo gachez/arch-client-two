@@ -1,0 +1,22 @@
+/* Clients Logo Area css
+============================================================================================ */
+.clients_logo_area{
+	background: #fafcff;
+	.clients_slider{
+		.item{
+			text-align: center;
+			img{
+				width: 180px !important;
+				text-align: center;
+				display: block;
+				margin: auto;
+				line-height: 70px;
+				opacity: .5;
+				@include transition;
+			}
+		
+		}
+	}
+}
+/* End Clients Logo Area css
+============================================================================================ */
